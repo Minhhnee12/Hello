@@ -1,0 +1,14 @@
+header{
+    display: flex;
+}
+header img:nth-child(3){
+    position: 
+}
+header h1{
+    z-index: 1;
+    position: absolute;
+    padding: 0px 0px 0px 110px;
+    font-size: 40px;
+    color: #4740ff;
+    font-family: "Times New Roman";
+}
